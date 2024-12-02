@@ -1,0 +1,1244 @@
+Uri: https://10paisa.com/10admin/files/books/1.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\books\1.jpg
+Content Type: image/jpeg
+
+Uri: https://10paisa.com/10admin/files/books/2.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\books\2.jpg
+Content Type: image/jpeg
+
+Uri: https://10paisa.com/10admin/files/books/3.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\books\3.jpg
+Content Type: image/jpeg
+
+Uri: https://10paisa.com/10admin/files/books/4.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\books\4.jpg
+Content Type: image/jpeg
+
+Uri: https://10paisa.com/lity/dist/lity.css
+File Name: C:\Downloaded Web Sites\www.midcaps.in\lity\dist\lity.css
+Content Type: text/css
+
+Uri: https://10paisa.com/lity/dist/lity.js
+File Name: C:\Downloaded Web Sites\www.midcaps.in\lity\dist\lity.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css
+File Name: C:\Downloaded Web Sites\www.midcaps.in\npm\bootstrap-icons@1.11.3\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff2?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Downloaded Web Sites\www.midcaps.in\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Downloaded Web Sites\www.midcaps.in\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.midcaps.in\npm\bootstrap@5.3.2\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.midcaps.in\npm\bootstrap@5.3.2\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.midcaps.in\ajax\libs\jquery\3.7.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.midcaps.in\ajax\libs\OwlCarousel2\2.3.4\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\www.midcaps.in\ajax\libs\OwlCarousel2\2.3.4\assets\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\ajax\libs\OwlCarousel2\2.3.4\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.midcaps.in\ajax\libs\OwlCarousel2\2.3.4\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.4.1/jquery.twbsPagination.js
+File Name: C:\Downloaded Web Sites\www.midcaps.in\ajax\libs\twbs-pagination\1.4.1\jquery.twbsPagination.js
+Content Type: application/javascript
+
+Uri: https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js
+File Name: C:\Downloaded Web Sites\www.midcaps.in\signals\js\clients\scc-c2\scc-c2.min.js
+Content Type: text/javascript
+
+Uri: https://seal.godaddy.com/getSeal?sealID=cff37_64503_1722930177_03a239c76e4207f5e95a0bbed5fbb74c
+File Name: C:\Downloaded Web Sites\www.midcaps.in\getSeal
+Content Type: 
+
+Uri: https://www.10paisa.com/10admin/files/post/10.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/100.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\100.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/101.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\101.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/102.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\102.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/103.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\103.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/104.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\104.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/105.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\105.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/106.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\106.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/107.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\107.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/108.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\108.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/109.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\109.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/11.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/110.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\110.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/111.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\111.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/112.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\112.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/113.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\113.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/114.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\114.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/115.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\115.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/116.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\116.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/117.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\117.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/118.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\118.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/119.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\119.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/12.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/120.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\120.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/121.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\121.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/122.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\122.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/123.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\123.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/124.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\124.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/125.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\125.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/126.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\126.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/127.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\127.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/128.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\128.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/129.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\129.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/13.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/130.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\130.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/131.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\131.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/132.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\132.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/133.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\133.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/134.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\134.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/135.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\135.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/136.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\136.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/137.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\137.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/138.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\138.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/139.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\139.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/14.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/140.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\140.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/141.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\141.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/142.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\142.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/143.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\143.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/144.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\144.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/145.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\145.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/146.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\146.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/147.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\147.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/148.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\148.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/149.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\149.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/15.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/150.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/151.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\151.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/152.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\152.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/153.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\153.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/154.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\154.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/155.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\155.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/156.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\156.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/157.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\157.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/158.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\158.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/159.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\159.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/16.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/160.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\160.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/161.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\161.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/162.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\162.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/163.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\163.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/164.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\164.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/165.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\165.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/166.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\166.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/167.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\167.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/168.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\168.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/169.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\169.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/17.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/170.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\170.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/171.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\171.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/172.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\172.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/173.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\173.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/174.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\174.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/175.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\175.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/176.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\176.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/177.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\177.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/178.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\178.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/179.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\179.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/18.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/180.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/181.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\181.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/182.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\182.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/183.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\183.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/184.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\184.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/185.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\185.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/186.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\186.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/187.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\187.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/188.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\188.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/189.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\189.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/19.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/190.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\190.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/191.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\191.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/192.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\192.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/193.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\193.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/194.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\194.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/195.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\195.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/196.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\196.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/197.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\197.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/198.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\198.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/199.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\199.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/2.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/20.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/200.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/201.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\201.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/202.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\202.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/203.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\203.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/204.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\204.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/205.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\205.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/206.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\206.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/207.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\207.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/208.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\208.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/209.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\209.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/21.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/210.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\210.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/211.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\211.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/212.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\212.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/213.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\213.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/214.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\214.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/215.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\215.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/216.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\216.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/217.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\217.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/218.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\218.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/219.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\219.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/22.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\22.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/220.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\220.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/221.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\221.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/222.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\222.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/223.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\223.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/224.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\224.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/225.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/226.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\226.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/227.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\227.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/228.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\228.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/229.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\229.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/23.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\23.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/230.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\230.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/24.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\24.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/25.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/26.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\26.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/27.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\27.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/28.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\28.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/29.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\29.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/3.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/30.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\30.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/31.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\31.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/32.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\32.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/33.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\33.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/34.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\34.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/35.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\35.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/36.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\36.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/37.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\37.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/38.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\38.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/39.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\39.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/4.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/40.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\40.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/41.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\41.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/42.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\42.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/43.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\43.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/44.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\44.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/45.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\45.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/46.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\46.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/47.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\47.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/48.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\48.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/49.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\49.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/5.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/50.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\50.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/51.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\51.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/52.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\52.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/53.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\53.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/54.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\54.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/55.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\55.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/56.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\56.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/57.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\57.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/58.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\58.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/59.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\59.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/6.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/60.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\60.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/61.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\61.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/62.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\62.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/63.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\63.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/64.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\64.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/65.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\65.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/66.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\66.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/67.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\67.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/68.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\68.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/69.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\69.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/7.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/70.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\70.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/71.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\71.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/72.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\72.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/73.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\73.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/74.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\74.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/75.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\75.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/76.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\76.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/76a.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\76a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/77.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\77.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/78.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\78.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/79.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\79.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/8.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/80.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/81.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\81.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/82.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\82.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/83.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\83.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/84.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\84.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/85.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\85.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/86.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\86.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/87.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\87.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/88.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\88.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/89.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\89.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/9.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/90.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\90.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/91.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\91.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/92.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\92.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/93.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\93.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/94.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\94.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/95.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\95.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/96.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\96.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/97.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\97.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/98.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\98.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/10admin/files/post/99.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\10admin\files\post\99.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/images/dm/1.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\images\dm\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/images/dm/2.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\images\dm\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/images/dm/3.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\images\dm\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/images/dm/4.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\images\dm\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/images/si/1.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\images\si\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/images/si/2.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\images\si\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/images/si/3.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\images\si\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/images/si/4.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\images\si\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.10paisa.com/images/si/5.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\images\si\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.midcaps.in/
+File Name: C:\Downloaded Web Sites\www.midcaps.in\index.htm
+Content Type: text/html
+
+Uri: https://www.midcaps.in/about-us
+File Name: C:\Downloaded Web Sites\www.midcaps.in\about-us.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/assets/css/n-style.css
+File Name: C:\Downloaded Web Sites\www.midcaps.in\assets\css\n-style.css
+Content Type: text/css
+
+Uri: https://www.midcaps.in/assets/img/diff.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\assets\img\diff.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/assets/img/header-bg.jpg
+File Name: C:\Downloaded Web Sites\www.midcaps.in\assets\img\header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.midcaps.in/assets/img/hiw.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\assets\img\hiw.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/assets/img/icon.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\assets\img\icon.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/assets/img/logo-g.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\assets\img\logo-g.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/assets/img/m-icon.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\assets\img\m-icon.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/assets/img/multis.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\assets\img\multis.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/contact-us
+File Name: C:\Downloaded Web Sites\www.midcaps.in\contact-us.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/disclaimer
+File Name: C:\Downloaded Web Sites\www.midcaps.in\disclaimer.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/faqs
+File Name: C:\Downloaded Web Sites\www.midcaps.in\faqs.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/how-it-works
+File Name: C:\Downloaded Web Sites\www.midcaps.in\how-it-works.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/investing-style
+File Name: C:\Downloaded Web Sites\www.midcaps.in\investing-style.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/investor-charter
+File Name: C:\Downloaded Web Sites\www.midcaps.in\investor-charter.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/investors-complaints
+File Name: C:\Downloaded Web Sites\www.midcaps.in\investors-complaints.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/login
+File Name: C:\Downloaded Web Sites\www.midcaps.in\login.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/madmin/files/stock/360.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\360.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/aff.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\aff.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/ag.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\ag.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/bik.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\bik.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/cenply.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\cenply.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/ciea.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\ciea.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/eleg.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\eleg.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/ema.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\ema.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/emi.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\emi.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/end.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\end.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/ese.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\ese.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/fino.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\fino.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/fir.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\fir.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/five.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\five.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/gppl.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\gppl.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/irc.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\irc.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/jyt.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\jyt.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/kpr.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\kpr.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/lat.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\lat.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/pnb.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\pnb.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/pra.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\pra.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/rain.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\rain.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/redt.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\redt.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/rrk.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\rrk.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/rrr.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\rrr.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/sare.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\sare.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/shop.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\shop.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/Stocks.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\Stocks.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/sym.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\sym.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/uno.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\uno.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/madmin/files/stock/ush.png
+File Name: C:\Downloaded Web Sites\www.midcaps.in\madmin\files\stock\ush.png
+Content Type: image/png
+
+Uri: https://www.midcaps.in/privacy-policy
+File Name: C:\Downloaded Web Sites\www.midcaps.in\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/subscription
+File Name: C:\Downloaded Web Sites\www.midcaps.in\subscription.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/terms-&-conditions
+File Name: C:\Downloaded Web Sites\www.midcaps.in\terms-&-conditions.html
+Content Type: text/html
+
+Uri: https://www.midcaps.in/why-choose-midcaps
+File Name: C:\Downloaded Web Sites\www.midcaps.in\why-choose-midcaps.html
+Content Type: text/html
+
